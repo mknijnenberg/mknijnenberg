@@ -1,7 +1,7 @@
-### Hi there, I'm Maarten Knijnenberg - [website]
+### Hi there, I'm Maarten Knijnenberg - aka [mknijnenberg][website]
 
 ## I'm a Frontend Developer!
-- 🔭 I’m currently working for Mobian Global [Mobian Global][website]!
+- 🔭 I’m currently working for Mobian Global [Mobian Global][mobianglobal].
 - 🖥 We are working on various projects to help our customers (resellers) connect to their customers.
 - 🌱 I’m currently learning everything around Frontend Development. 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -43,4 +43,4 @@
 [twitter]: https://twitter.com/MKnijnenberg
 [linkedin]: https://www.linkedin.com/in/maartenknijnenberg/
 [instagram]: https://www.instagram.com/mknijnenberg/
-[Mobian Global]: https://www.mobain.global
+[mobianglobal]: https://www.mobain.global/
