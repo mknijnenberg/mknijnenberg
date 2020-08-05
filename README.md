@@ -4,7 +4,8 @@
 - 🔭 I’m currently working for Mobian Global [Mobian Global][mobianglobal].
 - 🖥 We are working on various projects to help our customers (resellers) connect to their customers.
 - 🌱 I’m currently learning everything around Frontend Development. 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goal 1: Writing my first blogpost.
+- 🥅 2020 Goal 2: Contribute more to Open Source projects.
 - ⚡ Fun fact: I am a sports enthusiast and love to ride my motorcycle!
 
 ### Connect with me:
