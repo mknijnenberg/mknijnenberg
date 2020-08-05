@@ -37,8 +37,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="mknijnenberg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mknijnenberg&show_icons=true&hide_border=true" />
 
 [website]: https://www.maartenknijnenberg.nl
 [twitter]: https://twitter.com/MKnijnenberg
