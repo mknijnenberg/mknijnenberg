@@ -43,4 +43,4 @@
 [twitter]: https://twitter.com/MKnijnenberg
 [linkedin]: https://www.linkedin.com/in/maartenknijnenberg/
 [instagram]: https://www.instagram.com/mknijnenberg/
-[mobianglobal]: https://www.mobain.global/
+[mobianglobal]: https://www.mobian.global/
