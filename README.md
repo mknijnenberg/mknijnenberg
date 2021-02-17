@@ -1,7 +1,7 @@
 ### Hi there, I'm Maarten Knijnenberg - aka [mknijnenberg][website]
 
 ## I'm a Frontend Developer and just an ordinary guy!
-- 🖥 I work for [Mobian Global][mobianglobal]. We are working on various projects to help our customers (resellers) connect to their customers.
+- 🖥 I work at [MyParcel][myparcel]. We are working on various projects to help our customers (resellers) connect to their customers.
 - 🔭 In my spare time I work as a freelance developer to help people or companies connect to the world by building their website.
 - 🌱 I’m currently learning everything around Frontend Development. 🤣
 - 🥅 2020 Goal 1: Writing my first blogpost.
@@ -47,4 +47,4 @@
 [twitter]: https://twitter.com/MKnijnenberg
 [linkedin]: https://www.linkedin.com/in/maartenknijnenberg/
 [instagram]: https://www.instagram.com/mknijnenberg/
-[mobianglobal]: https://www.mobian.global/
+[myparcel]: https://www.myparcel.nl/
